@@ -10,3 +10,8 @@ Learned how to add headers
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Learned how to add Images
+
+``` javascript
+var myVar = "Hello, world!";
+```
+Learned how to add Code
