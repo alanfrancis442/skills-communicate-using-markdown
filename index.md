@@ -15,3 +15,9 @@ Learned how to add Images
 var myVar = "Hello, world!";
 ```
 Learned how to add Code
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+
+Learned how to add task list
