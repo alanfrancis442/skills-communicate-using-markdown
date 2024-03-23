@@ -5,4 +5,8 @@
 ##### H5 Header
 ###### H6 Header
 
-Learned Markdown
+Learned how to add headers
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Learned how to add Images
